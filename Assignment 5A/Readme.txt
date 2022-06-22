@@ -13,3 +13,5 @@ Swiper: swiper-slide
 
 And in this assignment, I showed the homepage, information about me, my resume, projects and skills. 
 There is a contact part on the last of the page.
+
+You can view this page on: https://htmlpreview.github.io/?https://github.com/xinwei-12/INFO-6150/blob/main/Assignment%205A/index.html
